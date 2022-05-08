@@ -1,0 +1,6 @@
+framework module settings_native {
+    umbrella header "settings_native.h"
+
+    export *
+    module * { export * }
+}

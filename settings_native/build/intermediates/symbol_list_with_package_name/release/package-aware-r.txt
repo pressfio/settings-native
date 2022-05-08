@@ -1,0 +1,2 @@
+io.pressf.settings_native
+string androidx_startup
