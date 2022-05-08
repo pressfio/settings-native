@@ -46,10 +46,10 @@
       jars="/Users/petr/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar"
       resolved="androidx.annotation:annotation:1.1.0"/>
   <library
-      name="/Users/petr/Documents/Projects/KN/Settings_Native@@:settings-native::debug"
-      jars="/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/.transforms/8450c70a7979e36b0d98b61783c121fb/transformed/out/jars/classes.jar"
-      resolved="io.pressf.settings-native:settings-native:unspecified"
-      folder="/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/.transforms/8450c70a7979e36b0d98b61783c121fb/transformed/out"
+      name="/Users/petr/Documents/Projects/KN/Settings_Native@@:settings_native::debug"
+      jars="/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/.transforms/2b6b20b03ae59c1dbeb07e0667d02375/transformed/out/jars/classes.jar"
+      resolved="io.pressf.settings-native:settings_native:unspecified"
+      folder="/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/.transforms/2b6b20b03ae59c1dbeb07e0667d02375/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

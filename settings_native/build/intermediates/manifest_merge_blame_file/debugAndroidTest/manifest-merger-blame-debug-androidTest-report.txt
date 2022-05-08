@@ -3,45 +3,45 @@
 3    package="io.pressf.settings_native.test" >
 4
 5    <uses-sdk
-5-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:5:5-74
+5-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:5:5-74
 6        android:minSdkVersion="21"
-6-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:5:15-41
+6-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:5:15-41
 7        android:targetSdkVersion="31" />
-7-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:5:42-71
+7-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:11:5-15:80
+9-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:11:5-15:80
 10        android:name="android.test.InstrumentationTestRunner"
-10-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:11:22-75
+10-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:11:22-75
 11        android:functionalTest="false"
-11-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:14:22-52
+11-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:13:22-53
+12-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:13:22-53
 13        android:label="Tests for io.pressf.settings_native.test"
-13-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:15:22-78
+13-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:15:22-78
 14        android:targetPackage="io.pressf.settings_native.test" />
-14-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:12:22-76
+14-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:12:22-76
 15
 16    <application android:debuggable="true" >
-16-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:7:5-9:19
+16-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:7:5-9:19
 17        <uses-library android:name="android.test.runner" />
-17-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:8:9-60
-17-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12696551079760759869.xml:8:23-57
+17-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:8:9-60
+17-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5102714822282778107.xml:8:23-57
 18
 19        <provider
-19-->[:settings-native] /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-19:20
+19-->[:settings_native] /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-19:20
 20            android:name="androidx.startup.InitializationProvider"
-20-->[:settings-native] /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-67
+20-->[:settings_native] /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-67
 21            android:authorities="io.pressf.settings_native.test.androidx-startup"
-21-->[:settings-native] /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-68
+21-->[:settings_native] /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-68
 22            android:exported="false" >
-22-->[:settings-native] /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
+22-->[:settings_native] /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
 23            <meta-data
-23-->[:settings-native] /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-18:52
+23-->[:settings_native] /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-18:52
 24                android:name="io.pressf.settings_native.SettingsInitializer"
-24-->[:settings-native] /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-77
+24-->[:settings_native] /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-77
 25                android:value="androidx.startup" />
-25-->[:settings-native] /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:17-49
+25-->[:settings_native] /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:17-49
 26        </provider>
 27    </application>
 28

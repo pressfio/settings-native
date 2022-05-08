@@ -1,9 +1,9 @@
 <lint-module
     format="1"
-    dir="/Users/petr/Documents/Projects/KN/Settings_Native/settings-native"
-    name=":settings-native"
+    dir="/Users/petr/Documents/Projects/KN/Settings_Native/settings_native"
+    name=":settings_native"
     type="LIBRARY"
-    maven="io.pressf.settings-native:settings-native:"
+    maven="io.pressf.settings-native:settings_native:"
     gradle="7.1.2"
     buildFolder="build"
     bootClassPath="/Users/petr/Library/Android/sdk/platforms/android-31/android.jar:/Users/petr/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"

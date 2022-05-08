@@ -5,28 +5,28 @@
 5
 6    <uses-sdk
 7        android:minSdkVersion="21"
-7-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
+7-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
 8        android:targetSdkVersion="31" />
-8-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
+8-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
 9
 10    <application>
-10-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:7:5-16:19
+10-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:7:5-16:19
 11        <provider
-11-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:8:9-15:20
+11-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:8:9-15:20
 12            android:name="androidx.startup.InitializationProvider"
-12-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:9:17-71
+12-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:9:17-71
 13            android:authorities="${applicationId}.androidx-startup"
-13-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:10:17-72
+13-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:10:17-72
 14            android:exported="false"
-14-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:11:17-41
+14-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:11:17-41
 15            tools:node="merge" >
-15-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:12:17-35
+15-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:12:17-35
 16            <meta-data
-16-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:13:13-14:60
+16-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:13:13-14:60
 17                android:name="io.pressf.settings_native.SettingsInitializer"
-17-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:13:25-85
+17-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:13:25-85
 18                android:value="androidx.startup" />
-18-->/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:14:25-57
+18-->/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:14:25-57
 19        </provider>
 20    </application>
 21

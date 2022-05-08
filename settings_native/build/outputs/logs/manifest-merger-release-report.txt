@@ -1,45 +1,45 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:3:1-18:12
-INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:3:1-18:12
-INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:3:1-18:12
+ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:3:1-17:12
+INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:3:1-17:12
+INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:3:1-17:12
 	package
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:6:9-44
-		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
-		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:6:9-44
+		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:5:9-55
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:5:9-55
 	xmlns:android
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:4:9-67
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:4:9-67
 application
-ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:7:5-16:19
+ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:7:5-16:19
 provider#androidx.startup.InitializationProvider
-ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:8:9-15:20
+ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:8:9-15:20
 	tools:node
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:12:17-35
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:12:17-35
 	android:authorities
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:10:17-72
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:10:17-72
 	android:exported
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:11:17-41
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:11:17-41
 	android:name
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:9:17-71
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:9:17-71
 meta-data#io.pressf.settings_native.SettingsInitializer
-ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:13:13-14:60
+ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:13:13-14:60
 	android:value
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:14:25-57
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:14:25-57
 	android:name
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml:13:25-85
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml:13:25-85
 uses-sdk
-INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
-INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
-INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
-INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
-		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
-		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
-		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings-native/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/petr/Documents/Projects/KN/Settings_Native/settings_native/src/androidMain/AndroidManifest.xml

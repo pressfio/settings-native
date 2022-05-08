@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/merged_res/release/values/values.xml",
             "map": [
                 {
                     "source": "/Users/petr/.gradle/caches/transforms-3/6756deb8479de8f40a6f1ed22eb522f6/transformed/startup-runtime-1.1.1/res/values/values.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/Users/petr/Documents/Projects/KN/Settings_Native/settings-native/build/intermediates/merged_res/release/values/values.xml",
+            "outputFile": "/Users/petr/Documents/Projects/KN/Settings_Native/settings_native/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/petr/.gradle/caches/transforms-3/6756deb8479de8f40a6f1ed22eb522f6/transformed/startup-runtime-1.1.1/res/values/values.xml",
